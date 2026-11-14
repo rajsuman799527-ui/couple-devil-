@@ -4,5 +4,5 @@
  */
 window.CD_CONFIG = {
   SUPABASE_URL: 'https://bcfnxbkxravgkvcvsebv.supabase.co',
-  SUPABASE_KEY: 'PASTE_YOUR_ANON_KEY_HERE',
+  SUPABASE_KEY: 'sb_publishable_OJUGU5_albpWc7QC6EwC3w_A6jyMicW',
 };
