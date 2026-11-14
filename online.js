@@ -7,7 +7,7 @@
 
   // ---- 1) PUT YOUR KEY HERE (Supabase > Project Settings > API > "anon public") ----
   const SUPABASE_URL = 'https://bcfnxbkxravgkvcvsebv.supabase.co';
-  const SUPABASE_KEY = 'PASTE_YOUR_ANON_KEY_HERE';
+  const SUPABASE_KEY = 'sb_publishable_OJUGU5_albpWc7QC6EwC3w_A6jyMicW';
   // ------------------------------------------------------------------------------
 
   const PROFILE_KEY = 'cd-profile-v1';
